@@ -20,6 +20,8 @@ Apex Academy is a responsive educational website designed to prove a smooth user
 - signup.html : Signup page
 - style.css : styling of html pages
 - script.js : functionality of login and signup pages
+- images folder : All images related to website
+- ProjectReport.pdf : Apex Academy project report
 
 ## Challenges Faced
 - Handling login validation using localStorage
